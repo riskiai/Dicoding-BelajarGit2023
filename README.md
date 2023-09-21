@@ -16,4 +16,8 @@ Belajar Kelas Memulai Pemograman Java. (Progress 100%)
 * Belajar konsep OOP (Object-Oriented-Programming) Untuk Mempermudah pengembangan sebuah program.
 * Belajar Class-class yang sering digunakan dalam bahasa java seperti generic, exception, input, output, date time, dan casting.
 * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
-* Mengerjakan ujian akhir untuk menilai kemahiran diri. 
+* Mengerjakan ujian akhir untuk menilai kemahiran diri.
+
+Berikut adalah daftar Volunter yang diterima : 
+* Oon RiskiAI, [oo.or.od](https://oo.or.id).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
